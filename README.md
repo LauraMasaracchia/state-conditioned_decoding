@@ -1,3 +1,5 @@
+# State-conditioned decoding
+
 Here you find the code used to perform all the analyses in the paper "Frequency-specific theta states in the hippocampus modulate population activity with respect to behavioural context", 
 by Laura Masaracchia, Felipe Fredes and Diego Vidaurre. doi:doi: https://doi.org/10.1101/2024.12.11.627908. 
 
@@ -13,3 +15,6 @@ The figure summarizes our hypothesis and results
 The paper uses pre-recorded data (see Shahbaba et al., 2022, DOI: https://doi.org/10.1038/s41467-022-28057-6), that are not included in this repository. 
 
 The files in this repository reproduce all analyses and figures (main and supplemental) of our paper.
+
+
+Author: Laura Masaracchia, laurama@cfin.au.dk
