@@ -17,4 +17,4 @@ The paper uses pre-recorded data (see Shahbaba et al., 2022, DOI: https://doi.or
 This repository contains the code used to analyze the data in the study.
 
 
-Author: Laura Masaracchia, laurama@cfin.au.dk
+For any question, please contact Laura Masaracchia at laura.masaracchia@gmail.com
